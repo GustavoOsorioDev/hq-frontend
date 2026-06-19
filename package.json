@@ -11,6 +11,6 @@
   },
   "keywords": ["software-architecture", "csdd", "anti-slop", "micro-saas"],
   "devDependencies": {
-    "vite": "5.4.21"
+    "vite": "^6.0.0"
   }
 }
