@@ -1,0 +1,16 @@
+{
+  "name": "gustavoosorio-web",
+  "version": "1.0.0",
+  "description": "Landing page y HQ central de gustavoosorio.dev — Spec-Driven Development, Anti-Slop Architecture.",
+  "author": "Gustavo Osorio <@GustavoOsorioDev>",
+  "license": "ISC",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "keywords": ["software-architecture", "csdd", "anti-slop", "micro-saas"],
+  "devDependencies": {
+    "vite": "5.4.21"
+  }
+}
