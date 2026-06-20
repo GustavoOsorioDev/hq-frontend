@@ -1,6 +1,7 @@
 {
   "name": "gustavoosorio-web",
   "version": "1.0.0",
+  "type": "module",
   "description": "Landing page y HQ central de gustavoosorio.dev — Spec-Driven Development, Anti-Slop Architecture.",
   "author": "Gustavo Osorio <@GustavoOsorioDev>",
   "license": "ISC",
